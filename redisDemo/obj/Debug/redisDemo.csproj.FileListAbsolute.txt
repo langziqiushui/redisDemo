@@ -1,0 +1,16 @@
+D:\WorkSpace\redisDemo\redisDemo\bin\Debug\redisDemo.exe.config
+D:\WorkSpace\redisDemo\redisDemo\bin\Debug\redisDemo.exe
+D:\WorkSpace\redisDemo\redisDemo\bin\Debug\redisDemo.pdb
+D:\WorkSpace\redisDemo\redisDemo\bin\Debug\ServiceStack.Common.dll
+D:\WorkSpace\redisDemo\redisDemo\bin\Debug\ServiceStack.Interfaces.dll
+D:\WorkSpace\redisDemo\redisDemo\bin\Debug\ServiceStack.Redis.dll
+D:\WorkSpace\redisDemo\redisDemo\bin\Debug\ServiceStack.Text.dll
+D:\WorkSpace\redisDemo\redisDemo\bin\Debug\ServiceStack.Common.xml
+D:\WorkSpace\redisDemo\redisDemo\bin\Debug\ServiceStack.Interfaces.xml
+D:\WorkSpace\redisDemo\redisDemo\bin\Debug\ServiceStack.Redis.xml
+D:\WorkSpace\redisDemo\redisDemo\bin\Debug\ServiceStack.Text.xml
+D:\WorkSpace\redisDemo\redisDemo\obj\Debug\redisDemo.csprojResolveAssemblyReference.cache
+D:\WorkSpace\redisDemo\redisDemo\obj\Debug\redisDemo.Properties.Resources.resources
+D:\WorkSpace\redisDemo\redisDemo\obj\Debug\redisDemo.csproj.GenerateResource.Cache
+D:\WorkSpace\redisDemo\redisDemo\obj\Debug\redisDemo.exe
+D:\WorkSpace\redisDemo\redisDemo\obj\Debug\redisDemo.pdb
